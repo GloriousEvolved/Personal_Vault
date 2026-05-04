@@ -1,0 +1,93 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"1. Main/Workout\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16763581
+      }
+    },
+    {
+      "query": "path:\"1. Main/YouTube\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711731
+      }
+    },
+    {
+      "query": "path:\"2. Other\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7039851
+      }
+    },
+    {
+      "query": "tag:#excalidraw  ",
+      "color": {
+        "a": 1,
+        "rgb": 5425407
+      }
+    },
+    {
+      "query": "tag:#Uzum  ",
+      "color": {
+        "a": 1,
+        "rgb": 9175295
+      }
+    },
+    {
+      "query": "tag:#job  ",
+      "color": {
+        "a": 1,
+        "rgb": 5189376
+      }
+    },
+    {
+      "query": "path:\"1. Main/IT and more/JavaScript\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
+    },
+    {
+      "query": "tag:#C  ",
+      "color": {
+        "a": 1,
+        "rgb": 22941
+      }
+    },
+    {
+      "query": "tag:#IT  ",
+      "color": {
+        "a": 1,
+        "rgb": 65280
+      }
+    },
+    {
+      "query": "tag:#article  ",
+      "color": {
+        "a": 1,
+        "rgb": 16318384
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 1.52916666666667,
+  "lineSizeMultiplier": 1.50364583333333,
+  "collapse-forces": true,
+  "centerStrength": 0.296875,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.10125838137133121,
+  "close": true
+}

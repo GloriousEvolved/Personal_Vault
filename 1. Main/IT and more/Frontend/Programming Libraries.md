@@ -1,0 +1,3 @@
+AOS
+Framer-motion
+GSAP

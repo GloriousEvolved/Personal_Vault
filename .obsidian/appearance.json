@@ -1,0 +1,13 @@
+{
+  "cssTheme": "Tokyo Night",
+  "showRibbon": true,
+  "baseFontSizeAction": false,
+  "baseFontSize": 16,
+  "interfaceFontFamily": "",
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "Consolas",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "theme": "obsidian",
+  "accentColor": ""
+}

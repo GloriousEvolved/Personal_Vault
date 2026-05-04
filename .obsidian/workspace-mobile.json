@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "85ecc2a1093ead8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "21a8d8bbf2043c80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09274b9f670b2edf",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Deeds.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Deeds"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f408cc366461e3c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ca20096e64060985",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Файловый менеджер"
+        }
+      },
+      {
+        "id": "21b6a83e691693a0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Поиск"
+        }
+      },
+      {
+        "id": "5516e885d30bafd5",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "ac740f06a9fa67ae",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "1702aa762d3cd60b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "17d79d4a01eae851",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "2. Other/Play, read, watch/Phrases.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Обратные ссылки"
+        }
+      },
+      {
+        "id": "2ae11a6310f6e0b1",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "2. Other/Play, read, watch/Phrases.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Исходящие ссылки"
+        }
+      },
+      {
+        "id": "66ddb63ed3199598",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "2. Other/Play, read, watch/Phrases.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Структура"
+        }
+      },
+      {
+        "id": "faf856af87fd5fcb",
+        "type": "leaf",
+        "state": {
+          "type": "side-panel-control-view",
+          "state": {},
+          "icon": "viewIcon",
+          "title": "Markdown-Autocomplete"
+        }
+      },
+      {
+        "id": "853bc723e0d349fb",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {},
+          "icon": "spreadsheet",
+          "title": "Advanced Tables"
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "workspaces:Пространства": false,
+      "bases:Создать новую базу": false,
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true
+    }
+  },
+  "active": "09274b9f670b2edf",
+  "lastOpenFiles": [
+    "Deeds.md",
+    "2. Other/Play, read, watch/Phrases.md",
+    "2. Other/Play, read, watch/Already read & want to read.md",
+    "Daily Routine (new).md",
+    "1. Main/IT and more/Cybersecurity/(NAV)Фаст лейн.md",
+    "1. Main/IT and more/Cybersecurity/Компьютерные сети.md",
+    "1. Main/IT and more/Cybersecurity/Cybersecurity.md",
+    "README.md",
+    "Goals.md",
+    "1. Main/Events/Yandex Uzbekistan Dev Meetup.md",
+    "1. Main/Events/GDG event.md",
+    "2. Other/Clothes.md",
+    "2. Other/Play, read, watch/Watched & Want to watch.md",
+    "1. Main/IT and more/School21/School21 имена.md",
+    "1. Main/IT and more/CS50/Лекция №1.md",
+    "Excalidraw/Decimal Numeral System.md",
+    "Excalidraw/Binary Numeral System.md",
+    "2. Other/Accounts.md",
+    "1. Main/Hotkeys.md",
+    "2. Other/Laptop.md",
+    "1. Main/IT and more/School21/Qoplon tribe.md",
+    "3. Archive/Daily Routine (free).md",
+    "Daily routine.md",
+    "2. Other/Obsidian tips.md",
+    "1. Main/Articles/Избавься от последствий нелосыпа.md",
+    "1. Main/Articles/Простое сообщество новогодние советы.md",
+    "Resources/IMG_20260313_171030.png",
+    "1. Main/IT and more/Cybersecurity",
+    "Resources/IMG_20260211_182222.jpg",
+    "Resources/IMG_20260211_182010.jpg",
+    "ru.wikipedia.org/wiki",
+    "ru.wikipedia.org",
+    "Resources/Pasted image 20260204105130.jpg",
+    "Untitled",
+    "1. Main/Job",
+    "3. Archive/Wesolve.uz",
+    "Resources/IMG_20251218_162310.jpg",
+    "Resources/Screenshot_2025-12-10-19-39-09-297_org.mozilla.firefox.jpg",
+    "Resources/Screenshot_2025-12-10-19-38-59-212_org.mozilla.firefox 1.jpg",
+    "Resources/Screenshot_2025-12-10-19-38-59-212_org.mozilla.firefox.jpg",
+    "Resources/IMG_20251206_122324.jpg",
+    "Resources/IMG_20251206_120411.jpg",
+    "Untitled 1",
+    "1. Main/IT and more/Events/Uzum"
+  ]
+}

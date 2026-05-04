@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "2b8afed95df16fc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "957f649fbf0f2658",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa246b3df3b48b18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Main/Workout/Front Lever.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Front Lever"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5be85ac98bd513b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fa85680b4509255",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f24f4878494b32a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e6299f250d285139",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1b13e2f22898f00d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9296b87eef4b6f37",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dd513eb49249cc7",
+        "type": "tabs",
+        "dimension": 31.72541743970315,
+        "children": [
+          {
+            "id": "bfe92d84d06ac4d1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "617de91140d024d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_Main/Workout/Front Lever.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Front Lever"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4b910dec438aa8e5",
+        "type": "tabs",
+        "dimension": 68.27458256029685,
+        "children": [
+          {
+            "id": "fb16cba422b80c8f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_Main/Workout/Front Lever.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Front Lever"
+            }
+          },
+          {
+            "id": "65f21c2b7fb89302",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_Main/Workout/Front Lever.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Front Lever"
+            }
+          },
+          {
+            "id": "ab1ee15e8eda65f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6916fcf237cc25c9",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
+          },
+          {
+            "id": "bde6c017913ff329",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "bases:Create new base": false,
+      "omnisearch:Omnisearch": true,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "dashboard-navigator:Open dashboard navigator": true,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true
+    }
+  },
+  "active": "aa246b3df3b48b18",
+  "lastOpenFiles": [
+    "_Main/Workout/Front Lever (conflict 2025-09-29-15-13-37).md",
+    "_Main/Workout/Front Lever.md",
+    "_Main/IT and more/VS Code.md",
+    "Untitled.base",
+    "Resources/CRUD-операции и методы запросов.png",
+    "Resources/IMG_20250912_192133.jpg",
+    "Resources/Vimlogo.svg.png",
+    "Resources/IMG_20240815_172813.jpg",
+    "Resources/IMG_20250912_192242.jpg"
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiRefreshCw",
+      "LiShieldOff",
+      "LiLayout",
+      "🐆",
+      "LiLaptop"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "1. Main": {
+    "iconName": "LiBoxes",
+    "iconColor": "#f7768e"
+  },
+  "2. Other": {
+    "iconName": "LiBox",
+    "iconColor": "#ffffff"
+  },
+  "3. Archive": {
+    "iconName": "LiArchive",
+    "iconColor": "#ffc085"
+  },
+  "Excalidraw": "LiPenTool",
+  "Resources": {
+    "iconName": "LiImages",
+    "iconColor": "#9f6bff"
+  },
+  "1. Main/Articles": {
+    "iconName": "LiNewspaper",
+    "iconColor": "#fdffeb"
+  },
+  "1. Main/IT and more": {
+    "iconName": "LiBinary",
+    "iconColor": "#15ff00"
+  },
+  "1. Main/Workout": "LiDumbbell",
+  "1. Main/YouTube": {
+    "iconName": "LiYoutube",
+    "iconColor": "#ff0033"
+  },
+  "1. Main/Hotkeys.md": {
+    "iconName": "LiKeyboard",
+    "iconColor": "#ff3814"
+  },
+  "1. Main/IT and more/VS Code.md": {
+    "iconName": "LiAppWindow",
+    "iconColor": "#0078d4"
+  },
+  "2. Other/Play, read, watch": "LiMonitor",
+  "2. Other/Кроссовки.md": "👟",
+  "2. Other/Accounts.md": {
+    "iconName": "LiUsers",
+    "iconColor": "#6224f5"
+  },
+  "2. Other/Fortune.md": {
+    "iconName": "LiDollarSign",
+    "iconColor": "#04f500"
+  },
+  "2. Other/Уход за собой": "💇‍♂️",
+  "Settings.md": {
+    "iconName": "LiSettings",
+    "iconColor": "#858585"
+  },
+  "Deeds.md": "LiKanbanSquare",
+  "1. Main/IT and more/C": {
+    "iconName": "LiHexagon",
+    "iconColor": "#00599d"
+  },
+  "1. Main/YouTube/Как устроен ПК.md": "LiPcCase",
+  "1. Main/Events": "LiPartyPopper",
+  "1. Main/Events/(Вопросы для мастер-классов или ивентов).md": "LiQuestionMarkGlyph",
+  "1. Main/Events/Uzum": {
+    "iconName": "LiStore",
+    "iconColor": "#7000ff"
+  },
+  "1. Main/Job": {
+    "iconName": "LiBriefcaseBusiness",
+    "iconColor": "#7f5139"
+  },
+  "3. Archive/Daily Routine (free).md": "LiRefreshCcw",
+  "1. Main/IT and more/CS50": "LiUniversity",
+  "2. Other/Laptop.md": "LiLaptop",
+  "1. Main/YouTube/Куда войти/Split keyboard.md": "LiSplitSquareHorizontal",
+  "1. Main/IT and more/School21": {
+    "iconName": "LiBuilding2",
+    "iconColor": "#44eb99"
+  },
+  "1. Main/IT and more/School21/Вопросы перед интенсивом School21.md": "LiQuestionMarkGlyph",
+  "1. Main/IT and more/Frontend/JavaScript": {
+    "iconName": "LiShield",
+    "iconColor": "#f7e018"
+  },
+  "1. Main/IT and more/Frontend/GitHub.md": {
+    "iconName": "LiGithub",
+    "iconColor": "#585965"
+  },
+  "1. Main/IT and more/Frontend/HTML & CSS.md": "LiText",
+  "1. Main/IT and more/Frontend/React.md": {
+    "iconName": "LiAtom",
+    "iconColor": "#58c4dc"
+  },
+  "1. Main/IT and more/Frontend": "LiLayout",
+  "1. Main/IT and more/Cybersecurity": "LiShieldOff",
+  "Daily Routine (new).md": "LiRefreshCw"
+}

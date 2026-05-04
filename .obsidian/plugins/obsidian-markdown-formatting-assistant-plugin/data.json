@@ -1,0 +1,70 @@
+{
+  "triggerChar": "\\",
+  "sidePaneSideLeft": false,
+  "savedColors": [
+    "#1A1B26",
+    "#24283B",
+    "#414868",
+    "#565F89",
+    "#9AA5CE",
+    "#CFC9C2",
+    "#A9B1D6",
+    "#C0CAF5",
+    "#BB9AF7",
+    "#7AA2F7",
+    "#7DCFFF",
+    "#2AC3DE",
+    "#B4F9F8",
+    "#73DACA",
+    "#9ECE6A",
+    "#E0AF68",
+    "#FF9E64",
+    "#F7768E"
+  ],
+  "aviabileRegions": [
+    "textEdit",
+    "tabels",
+    "html",
+    "latex",
+    "greekLetters",
+    "colors",
+    "callouts"
+  ],
+  "regionSettings": [
+    {
+      "name": "textEdit",
+      "active": true,
+      "visible": false
+    },
+    {
+      "name": "tables",
+      "active": false,
+      "visible": false
+    },
+    {
+      "name": "html",
+      "active": true,
+      "visible": false
+    },
+    {
+      "name": "latex",
+      "active": false,
+      "visible": false
+    },
+    {
+      "name": "greekLetters",
+      "active": false,
+      "visible": false
+    },
+    {
+      "name": "colors",
+      "active": true,
+      "visible": false
+    },
+    {
+      "name": "callouts",
+      "active": true,
+      "visible": false
+    }
+  ]
+}

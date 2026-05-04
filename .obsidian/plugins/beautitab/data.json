@@ -1,0 +1,26 @@
+{
+  "backgroundTheme": "custom",
+  "customBackground": "https://r4.wallpaperflare.com/wallpaper/295/784/851/artwork-mr-robot-elliot-4k-wallpaper-68f6dd1890d0ec38700ca13e683234fa.jpg",
+  "localBackgrounds": [],
+  "showTopLeftSearchButton": true,
+  "topLeftSearchProvider": {
+    "command": "switcher:open",
+    "display": "Obsidian Core Quick Switcher"
+  },
+  "showTime": true,
+  "timeFormat": "24-hour",
+  "showGreeting": true,
+  "greetingText": "Hello, friend",
+  "showInlineSearch": true,
+  "inlineSearchProvider": {
+    "command": "omnisearch:show-modal",
+    "display": "Omnisearch: Vault search"
+  },
+  "showRecentFiles": true,
+  "showBookmarks": false,
+  "bookmarkSource": "all",
+  "bookmarkGroup": "",
+  "showQuote": false,
+  "quoteSource": "Quoteable",
+  "customQuotes": []
+}

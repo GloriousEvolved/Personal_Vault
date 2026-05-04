@@ -1,0 +1,14 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "usage": "text",
+    "done": "datetime",
+    "speech_fulfill": "text",
+    "explanation": "multitext",
+    "date": "date",
+    "formal_date": "text",
+    "publication_date": "date"
+  }
+}
