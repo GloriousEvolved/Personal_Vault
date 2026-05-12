@@ -240,7 +240,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 327.5
+        "width": 327.5,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -262,7 +263,7 @@
         }
       },
       "active": "55b0512c13a20966",
-      "mtime": "2026-05-01T20:39:48+05:00"
+      "mtime": "2026-05-12T23:39:00+05:00"
     }
   },
   "active": "My workspace layout"
