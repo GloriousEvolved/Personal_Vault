@@ -1,5 +1,7 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## Day
@@ -24,7 +26,7 @@ kanban-plugin: board
 ## Done
 
 - [ ] Сделать 3 задание
-- [ ] Сделать 1 проек
+- [ ] Сделать 1 проект
 - [ ] Разобрать тему подсетей и масок
 - [ ] Сделать распорядок дня при помощи нейросетей ChatGPT, Gemini, Claude, Grok и возможно NotebookLM
 - [ ] Посмотреть презентацию и .pdf документ из ветки materials канала NeoSec21
@@ -46,6 +48,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false,false,false],"full-list-lane-width":true}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false],"full-list-lane-width":true}
 ```
 %%
