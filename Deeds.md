@@ -4,18 +4,14 @@ kanban-plugin: board
 
 ---
 
-## Day
+## To do
 
+- [ ] Посмотреть видео про навык придумывать и произносить тосты
+- [ ] Постепенно разобрать [Смотреть позже](https://www.youtube.com/playlist?list=WL) - Apollon
+- [ ] [Учиться — читать и делать! 📚🧑‍💻](https://youtu.be/oOqOeKLJDg0?si=-8TGqqALfr5VepkJ)
 - [ ] Смотреть курс молодого бойца
 - [ ] Прочитать статью на Habr про мультикаст запросы
 - [ ] Попробовать способы изучения из видео про Obsidian и NotebookLM с канала ZProger
-
-
-## The nearest time
-
-- [ ] [Учиться — читать и делать! 📚🧑‍💻](https://youtu.be/oOqOeKLJDg0?si=-8TGqqALfr5VepkJ)
-- [ ] Постепенно разобрать [Смотреть позже](https://www.youtube.com/playlist?list=WL) - Apollon
-- [ ] Посмотреть видео про навык придумывать и произносить тосты
 
 
 ## In progress
@@ -25,6 +21,13 @@ kanban-plugin: board
 
 ## Done
 
+**Complete**
+
+
+***
+
+## Archive
+
 - [ ] Сделать 3 задание
 - [ ] Сделать 1 проект
 - [ ] Разобрать тему подсетей и масок
@@ -33,12 +36,6 @@ kanban-plugin: board
 - [ ] Развернуть виртуалку Parrot OS
 - [ ] Сделать первое задание
 - [ ] Придти на IT Navigator
-
-
-***
-
-## Archive
-
 - [ ] Узнать про способы умножения капитала
 - [ ] Доадаптировать сайт с хакатона и прикрутить анимации
 - [ ] Добавить все работы в своё резюме на hh.uz
@@ -48,6 +45,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false],"full-list-lane-width":true}
+{"kanban-plugin":"board","list-collapse":[false,false,false],"full-list-lane-width":true}
 ```
 %%

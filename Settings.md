@@ -81,8 +81,59 @@
  >![Эллиот смотрит в правый верхний угол](https://r4.wallpaperflare.com/wallpaper/295/784/851/artwork-mr-robot-elliot-4k-wallpaper-68f6dd1890d0ec38700ca13e683234fa.jpg)
  
  Вроде бы я правильно скопировал свои настройки Firefox. В поисковой строке пиши `about:support` > Папка профиля/Profile Folder > файл *pref.js*. Закрываете Firefox, в конец файла pref.js вставляете код ниже, сохраняешь. Готово! Настройки ниже я изменил 9 декабря 2025 года после прочтения [[Сравнение приватности браузеров|статьи на Хабре про приватность браузеров]]
- 
- > [!example]- Конфиг для Firefox для файла pref.js.
+
+> [!example]- Конфиг Firefox для файла pref.js из видео *honey montana*
+>
+> В поисковой строке пишете about:support > Папка профиля > pref.js. Закрываете Firefox, в конец файла pref.js вставляете этот код,сохраняете.
+> ```
+> //Тонкие вкладки и поисковая строка
+> user_pref("browser.uidensity", 1);
+>
+> // Отключаем Pocket
+> user_pref("extensions.pocket.api", "");
+> user_pref("extensions.pocket.enabled", false);
+> user_pref("extensions.pocket.site", "");
+> user_pref("extensions.pocket.oAuthConsumerKey", "");
+>
+> //Отключаем анимацию открытия видео на фуллскин и подсказку "нажмите esc.."
+> user_pref("full-screen-api.transition-duration.enter", "0");
+> user_pref("full-screen-api.transition-duration.leave", "0");
+> user_pref("full-screen-api.warning.timeout", 0);
+>
+> //Просим сайты не отслеживать Вас
+> user_pref("privacy.trackingprotection.enabled", true);
+> user_pref("privacy.donottrackheader.enabled", true);
+> 
+> //Отключаем телеметрию и отправку отчетов
+> user_pref("toolkit.telemetry.archive.enabled", false);
+> user_pref("toolkit.telemetry.bhrPing.enabled", false);
+> user_pref("toolkit.telemetry.cachedClientID", "");
+> user_pref("toolkit.telemetry.firstShutdownPing.enabled", false);
+> user_pref("toolkit.telemetry.hybridContent.enabled", false);
+> user_pref("toolkit.telemetry.newProfilePing.enabled", false);
+> user_pref("toolkit.telemetry.previousBuildID", "");
+> user_pref("toolkit.telemetry.reportingpolicy.firstRun", false);
+> user_pref("toolkit.telemetry.server", "");
+> user_pref("toolkit.telemetry.server_owner", "");
+> user_pref("toolkit.telemetry.shutdownPingSender.enabled", false);
+> user_pref("toolkit.telemetry.unified", false);
+> user_pref("toolkit.telemetry.updatePing.enabled", false);
+> user_pref("datareporting.healthreport.infoURL", "");
+> user_pref("datareporting.healthreport.uploadEnabled", false);
+> user_pref("datareporting.policy.dataSubmissionEnabled", false);
+> user_pref("datareporting.policy.firstRunURL", "");
+> user_pref("browser.tabs.crashReporting.sendReport", false);
+> user_pref("browser.tabs.crashReporting.email", false);
+> user_pref("browser.tabs.crashReporting.emailMe", false);
+> user_pref("breakpad.reportURL", "");
+> user_pref("security.ssl.errorReporting.automatic", false);
+> user_pref("toolkit.crashreporter.infoURL", "");
+> user_pref("network.allow-experiments", false);
+> user_pref("dom.ipc.plugins.reportCrashURL", false);
+> user_pref("dom.ipc.plugins.flash.subprocess.crashreporter.enabled", false);
+> ```
+
+ > [!example]- Конфиг Firefox для файла pref.js из статьи на habr
 > ``` js
 > // Mozilla User Preferences
 >
